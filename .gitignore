@@ -1,5 +1,5 @@
 # Compiled source #
-
+#exclude class,project,settings file
 *.class
 *.project
 *.settings
